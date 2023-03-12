@@ -1,0 +1,145 @@
+.container{ 
+             width: 100%;
+             margin: 15px auto;
+             font-family: 'Hanken Grotesk', sans-serif;
+             font-family: 'Red Hat Display', sans-serif;
+                display: flex;
+}
+    .sub1{
+             background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+             height: 65vh;
+             border-radius: 20px;
+             width: 48%;
+    }
+     .btn1{
+               border-radius: 50%;
+               width: 250px;
+               padding:10px;
+               text-align: center;
+               margin-left: 70px;
+               border: none;
+               background: linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+               opacity: 0.9;
+               text-decoration: none;
+     }
+         .nub{ 
+            font-size: 60px;
+            color: white;
+            
+         }
+         .brake{ font-size: 25px;
+                 position: relative;
+                 top: -3rem;    
+                 color: hsl(241, 100%, 89%);
+                
+         }
+         .a1{
+              color:hsl(241, 100%, 89%);
+              text-align: center;
+              font-size: 20px;
+              padding: 6px;
+         }
+          h2{
+               text-align: center;
+               color:  hsl(0, 0%, 100%);
+               font-size: 24px;
+          }
+            .note{
+                   font-size: 24px;
+                    font-weight: 7px;
+                   margin-top: -30px;
+                   padding: 28px;
+                   text-align: center;
+                   color:hsl(241, 100%, 89%);
+            }
+               .sub2{
+                        background-color: hsl(0, 0%, 100%);
+                        width:48% ;
+                        border-radius: 20px;
+                        box-shadow: 30px 20px 20px -30px;
+                        height: 65vh;
+               }
+               .rek{
+                     color: black;
+                     font-size: 20px;
+                     position: relative;
+                     right: 8rem;
+               }
+               .pot1{
+                     border: none;
+                     width: 90%;
+                     border-radius: 5px;
+                     padding: 10px;
+                     margin: 10px 20px 10px;
+                      background-color
+                      
+               }
+                a{
+                   text-decoration:none;
+                   font-size: 20px;
+                   font-weight: 10px;
+                }
+                .q1{
+                     color:  hsl(0, 100%, 67%);
+                     position: relative;
+                     left: -4rem;
+                }
+                .pot2{
+                    border: none;
+                    width: 90%;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin: 10px 20px 10px;
+                }
+                 .pot3{
+                    border: none;
+                    width: 90%;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin: 10px 20px 10px;
+                 }
+                  .pot4{
+                    border: none;
+                    width: 90%;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin: 10px 20px 10px;
+                  }
+                  .flat1{
+                            position: relative;
+                            left: -5rem;
+                  }
+                     .q2{
+                        color:  hsl(39, 100%, 56%);
+                        position: relative;
+                        left: -4rem;
+                     }
+                    .q3{
+                        color:  hsl(166, 100%, 37%);
+                        position: relative;
+                        left: -4rem;
+                    }
+                   .q4{
+                    color:  hsl(234, 85%, 45%);
+                    position: relative;
+                    left: -4rem;
+                   }
+                     .w1{
+                            color: black;
+                            position: relative;
+                            left: 9rem;
+                     }
+                        .w5{
+                               border: none;
+                               width: 80%;
+                               padding: 18px;
+                                margin: 50px;
+                                
+                               border-radius: 20px;
+                               background-color:  hsl(224, 30%, 27%);
+                               color: hsl(241, 100%, 89%);
+                               font-size: 10px;
+                               font-weight: 10px;
+                               cursor: pointer;
+
+                        }
